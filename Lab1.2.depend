@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1480582317 source:d:\lab1.2\main.cpp
+	<iostream>
+	"Student.h"
+	"out.h"
+
+1480582409 d:\lab1.2\student.h
+
+1480582208 d:\lab1.2\out.h
+	"Student.h"
+
+1480582103 source:d:\lab1.2\out.cpp
+	<iostream>
+	"Student.h"
+	"out.h"
+
+1480582400 source:d:\lab1.2\student.cpp
+	<iostream>
+	"Student.h"
+

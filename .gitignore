@@ -45,3 +45,6 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+bin/Debug/Lab1.2.exe
+bin/Release/Lab1.2.exe
+*.o
